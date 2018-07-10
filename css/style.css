@@ -1,1 +1,26 @@
 /* add CSS class and element and selectors here */
+
+body{
+  font-size: 150%;
+}
+
+  
+
+
+.class1{
+  background-color: yellow;
+  font-family: Comic Sans MS;
+  color:#ec0000 ;
+}
+h3{
+  font-size:300%;
+}
+div{
+border: 3px;
+}
+*{
+  text-shadow: 6px;
+  color:white;
+  font-family: Sans-Serif;
+  opacity:1;
+}
