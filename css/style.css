@@ -1,1 +1,11 @@
 /* add CSS class and element and selectors here */
+
+body{
+  background-color: lightblue;
+  font-size: 150%;
+}
+
+.hello{
+  background-color: lime;
+  
+}
