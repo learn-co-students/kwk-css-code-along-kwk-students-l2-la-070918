@@ -1,1 +1,21 @@
 /* add CSS class and element and selectors here */
+body{
+  background-color: MistyRose;
+}
+#title-section{
+  font-family:Lobster;
+  color: white;
+}
+#welcome{
+  font-family: Nunito;
+  color: #fe8e88;
+}
+h3{
+  color:tomato;
+  font-size:120%;
+  font-weight:900;
+}
+.info-section{
+  font-family: Nunito;
+  color: #fe8e88;
+}
